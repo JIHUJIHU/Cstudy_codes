@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473668331 source:e:\source\calender\main.c
+	<stdio.h>
+	<time.h>
+

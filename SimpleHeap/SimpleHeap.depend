@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481163764 source:e:\source\simpleheap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SimpleHeap.h"
+
+1481163620 e:\source\simpleheap\simpleheap.h
+
+1481167437 source:e:\source\simpleheap\simpleheap.c
+	"SimpleHeap.h"
+

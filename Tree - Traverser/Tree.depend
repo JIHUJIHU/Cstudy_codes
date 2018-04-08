@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1480313653 source:e:\source\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1480313653 e:\source\tree\tree.h
+
+1480313750 source:e:\source\tree\tree.c
+	"Tree.h"
+	<stdlib.h>
+
+1480560715 source:e:\source\tree - traverser\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tree.h"
+
+1480559824 e:\source\tree - traverser\tree.h
+
+1480561182 source:e:\source\tree - traverser\tree.c
+	"Tree.h"
+	<stdlib.h>
+

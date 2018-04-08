@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1479880889 source:e:\source\calculator\main.c
+	"PostfixCaculator.h"
+	"InfixToPostfix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479295361 source:e:\source\calculator\listbasedstack.c
+	"ListBasedStack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1479880847 e:\source\calculator\listbasedstack.h
+
+1479954415 source:e:\source\calculator\infixtopostfix.c
+	"InfixToPostfix.h"
+	"ListBasedStack.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1479880579 e:\source\calculator\infixtopostfix.h
+
+1479880847 e:\source\calculator\postfixcaculator.h
+
+1479954379 source:e:\source\calculator\postfixcaculator.c
+	"ListBasedStack.h"
+	<string.h>
+

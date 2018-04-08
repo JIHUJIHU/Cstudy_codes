@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477296870 source:e:\source\codeup.kr\main.c
+	<string.h>
+	<stdio.h>
+	<string.h>
+

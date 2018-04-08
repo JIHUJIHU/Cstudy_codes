@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1478744400 source:e:\source\listbasedqueue\listbasedqueue.c
+
+1478744908 source:e:\source\listbasedqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListBasedQueue.h"
+
+1478747630 e:\source\listbasedqueue\listbasedqueue.h
+

@@ -1,0 +1,6 @@
+#ifndef POSTFIXCACULATOR_H_INCLUDED
+#define POSTFIXCACULATOR_H_INCLUDED
+
+int PostfixCaculator(char exp[]);
+
+#endif // POSTFIXCACULATOR_H_INCLUDED

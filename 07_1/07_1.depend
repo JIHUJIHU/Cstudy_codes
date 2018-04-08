@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480297244 source:e:\source\07_1\07_1.c
+	"07_1.h"
+	<stdio.h>
+	<stdlib.h>
+
+1480297157 e:\source\07_1\07_1.h
+
+1480297239 source:e:\source\07_1\dequebasedqueue.c
+	"dequebasedqueue.h"
+
+1480297255 e:\source\07_1\dequebasedqueue.h
+	"07_1.h"
+

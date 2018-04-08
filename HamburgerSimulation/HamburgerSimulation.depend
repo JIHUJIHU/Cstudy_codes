@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478744993 source:e:\source\hamburgersimulation\arraybasedqueue.c
+	"ArrayBasedQueue.h"
+	<stdlib.h>
+
+1479099430 e:\source\hamburgersimulation\arraybasedqueue.h
+
+1479099374 source:e:\source\hamburgersimulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ArrayBasedQueue.h"
+

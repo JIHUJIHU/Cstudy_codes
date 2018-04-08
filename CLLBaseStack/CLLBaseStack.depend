@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1481714535 source:e:\source\cllbasestack\cllbasestack.c
+	<stdio.h>
+	<stdlib.h>
+	"CLinkedList.h"
+	"CLLBaseStack.h"
+
+1481714900 e:\source\cllbasestack\clinkedlist.h
+
+1481713901 e:\source\cllbasestack\cllbasestack.h
+	"CLinkedList.h"
+
+1481714570 source:e:\source\cllbasestack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CLLBaseStack.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1474980080 source:e:\source\fractal\main.cpp
+	<tchar.h>
+	<windows.h>
+	"fractal.h"
+
+1474264717 e:\source\fractal\fractal.h
+	<windows.h>
+
+1482075933 source:e:\source\fractal\fractal.cpp
+	<windows.h>
+	<stdio.h>
+	<math.h>
+

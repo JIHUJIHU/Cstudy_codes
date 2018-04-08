@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473054947 source:e:\source\babo\func.c
+
+1473054998 source:e:\source\babo\main.c
+	<stdio.h>
+

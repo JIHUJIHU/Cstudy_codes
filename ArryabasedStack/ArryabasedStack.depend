@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1477537072 source:e:\source\arryabasedstack\arryabasedstack.c
+	"ArryabasedStack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477536990 e:\source\arryabasedstack\arryabasedstack.h
+
+1477537366 source:e:\source\arryabasedstack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArryabasedStack.h"
+

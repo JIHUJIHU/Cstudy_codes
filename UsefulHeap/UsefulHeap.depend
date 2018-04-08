@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481166452 source:e:\source\usefulheap\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UsefulHeap.h"
+
+1481166431 e:\source\usefulheap\usefulheap.h
+
+1481166487 source:e:\source\usefulheap\usefulheap.c
+	"UsefulHeap.h"
+

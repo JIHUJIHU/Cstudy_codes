@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1478139771 source:e:\source\calculator\main.c
+	"PostfixCaculator.h"
+	"InfixToPostfix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1477542043 source:e:\source\calculator\listbasedstack.c
+	"ListBasedStack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1477542044 e:\source\calculator\listbasedstack.h
+
+1477893006 source:e:\source\calculator\infixtopostfix.c
+	"InfixToPostfix.h"
+	"ListBasedStack.h"
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1477892767 e:\source\calculator\infixtopostfix.h
+
+1478138884 e:\source\calculator\postfixcaculator.h
+
+1478138956 source:e:\source\calculator\postfixcaculator.c
+	"PostfixCaculator.h"
+	<stdio.h>
+	"ListBasedStack.h"
+	<string.h>
+
+1477893006 source:e:\source\calculator\step1_10313ÀÌÃ¢Çù\infixtopostfix.c
+	"InfixToPostfix.h"
+	"ListBasedStack.h"
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+
+1477892767 e:\source\calculator\step1_10313ÀÌÃ¢Çù\infixtopostfix.h
+
+1477542044 e:\source\calculator\step1_10313ÀÌÃ¢Çù\listbasedstack.h
+
+1477542043 source:e:\source\calculator\step1_10313ÀÌÃ¢Çù\listbasedstack.c
+	"ListBasedStack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1478139771 source:e:\source\calculator\step1_10313ÀÌÃ¢Çù\main.c
+	"PostfixCaculator.h"
+	"InfixToPostfix.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1478138884 e:\source\calculator\step1_10313ÀÌÃ¢Çù\postfixcaculator.h
+
+1478138956 source:e:\source\calculator\step1_10313ÀÌÃ¢Çù\postfixcaculator.c
+	"PostfixCaculator.h"
+	<stdio.h>
+	"ListBasedStack.h"
+	<string.h>
+
